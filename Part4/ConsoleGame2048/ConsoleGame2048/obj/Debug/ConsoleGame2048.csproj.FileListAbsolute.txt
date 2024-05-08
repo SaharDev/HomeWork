@@ -1,0 +1,7 @@
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.csproj.AssemblyReference.cache
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.csproj.CoreCompileInputs.cache
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\bin\Debug\ConsoleGame2048.exe.config
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\bin\Debug\ConsoleGame2048.exe
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\bin\Debug\ConsoleGame2048.pdb
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.exe
+D:\HomeWork\Part4\ConsoleGame2048\ConsoleGame2048\obj\Debug\ConsoleGame2048.pdb
